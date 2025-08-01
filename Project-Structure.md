@@ -41,7 +41,8 @@ smart-portfolio/
 │   │   ├── blog/
 │   │   │   ├── [id]/page.tsx
 │   │   │   └── page.tsx
-│   │   ├── projects/page.tsx
+│   │   ├── hero.ts
+|   |   ├── projects/page.tsx
 │   │   ├── tech-stack-architect/page.tsx
 │   │   ├── favicon-32x32.png
 │   │   ├── favicon.ico
@@ -107,7 +108,6 @@ smart-portfolio/
 │   │   ├── supabase.ts
 │   │   └── utils.ts
 │   └── react-syntax-highlighter.d.ts
-├── tailwind.config.ts
 ├── tsconfig.json
 ├── utils/
 │   └── markdown.ts
