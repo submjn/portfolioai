@@ -21,8 +21,8 @@ export default function Navbar() {
       <nav className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center">
-            <Link href="/" className="text-3xl font-bold text-foreground">
-              SM
+            <Link href="/" className="text-3xl font-bold text-foreground amita-bold">
+              सुबास
             </Link>
           </div>
           <div className="hidden md:block">
